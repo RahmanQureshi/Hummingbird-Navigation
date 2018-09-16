@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Export-Package: mavros_msgs;version="1.0";uses:="geographic_msgs,geome
+ try_msgs,org.jboss.netty.buffer,org.ros.internal.message,org.ros.mess
+ age,std_msgs"
+Bundle-Version: 1.0
+Tool: Bnd-2.1.0.20130426-122213
+Bundle-Name: mavros_msgs
+Bnd-LastModified: 1536308104000
+Created-By: 1.7.0_60 (Oracle Corporation)
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.ros.rosjava_messages.mavros_msgs
+Import-Package: geographic_msgs;version="[0.3,1)",geometry_msgs;versio
+ n="[1.10,2)",org.jboss.netty.buffer;version="[3.5,4)",org.ros.interna
+ l.message,org.ros.message,std_msgs;version="[0.5,1)"
+

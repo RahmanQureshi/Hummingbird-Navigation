@@ -1,0 +1,12 @@
+slprj
+slprj/
+mavros_msgs/matlab_gen/
+hummingbird.tgz
+hummingbird_ert_rtw/
+*.autosave
+Icon
+Icon[]
+Icon[\r]
+Icon\r\r
+Icon\r
+*.bag

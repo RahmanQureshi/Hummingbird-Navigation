@@ -1,0 +1,8 @@
+package mavros_msgs;
+
+public interface WaypointPush$Service extends org.ros.internal.message.Message {
+  static final java.lang.String _TYPE = "mavros_msgs/WaypointPush$Service";
+  static final java.lang.String _DEFINITION = "# Send waypoints to device\n#\n#  :start_index: will define a partial waypoint update. Set to 0 for full update\n#\n# Returns success status and transfered count\n\nuint16 start_index\nmavros_msgs/Waypoint[] waypoints\n---\nbool success\nuint32 wp_transfered\n";
+  static final boolean _IS_SERVICE = true;
+  static final boolean _IS_ACTION = false;
+}
