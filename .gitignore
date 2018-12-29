@@ -10,3 +10,5 @@ Icon[\r]
 Icon\r\r
 Icon\r
 *.bag
+hummingbird_msgs/matlab_gen/
+hummingbird.slxc

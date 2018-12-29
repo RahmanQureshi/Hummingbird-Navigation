@@ -1,8 +1,8 @@
 rosshutdown
 
 % Gazebo IP address
-gazeboIp = '192.168.42.220';
-localIp = '192.168.42.121';
+gazeboIp = '172.16.10.19';
+localIp = '172.16.10.68';
 
 % Connection
 setenv('ROS_IP', localIp)
